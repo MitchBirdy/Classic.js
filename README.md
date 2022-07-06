@@ -1,5 +1,6 @@
 # 📕 Classic.js - Javascript of the future
-📚 - New javascript code language 
-📊 - Awesome Features/Functions
-📝 - infinite updates
-⚙️ - And More
+Classic.js is a new type of javascript with awesome features/functions
+# 📝 - infinite updates
+there will be no end of updates
+# ⚙️ - And More
+This package is soon its not done yet
