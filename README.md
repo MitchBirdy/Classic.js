@@ -1,2 +1,2 @@
-# Classic.js
-new javascript code language 
+# ✅ Classic.js
+New javascript code language 
