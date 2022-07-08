@@ -1,3 +1,4 @@
+const user = guild.user.join
 
 module.exports = (user) => {
     var user = checkType(user)
